@@ -1,0 +1,93 @@
+#parrafo1, #personajes, #titulo, #baner, #video, #comentarios{
+    width: 100%;
+    float:left;
+    margin: auto;
+}
+#baner img{
+    width: 100%;
+}
+iframe{
+    width: 100%;
+}
+
+#parrafo1{
+    width: 90%;
+    padding: 2%;
+    border: 2px black solid;
+    border-radius: 20px;
+    margin-top: 4px;
+    float:left;
+    margin-left: 3%;
+}
+
+#cajacentral{
+    float: left;
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+    background: silver;
+   
+    
+}
+
+
+
+body{
+    
+    background-color: darkmagenta;
+    text-align: center;
+}
+        
+
+#titulo h1{
+    
+    margin: auto;
+    width: 450px;
+    text-align: center;
+}
+
+
+
+#comentarios{
+   
+    margin: auto;
+    background: silver;
+}
+#comentarios  h2{
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#video{
+    
+    margin:auto;
+    background: silver;
+    
+    
+} 
+
+
+table{
+   
+    border-collapse: collapse;    
+    margin-left: 5px;
+    width: 80%;
+    margin: auto;
+}
+
+th{
+    margin:auto;
+    border: 1px solid #000;
+   
+}
+
+
+td{
+    margin:auto;
+    border:1px solid #000;
+    
+}
+
+#tablapersonajes{
+   
+}
